@@ -719,7 +719,7 @@ Möchtest Du ein Darlehn bei der Bank in Höhe von {1} beantragen, um zu vermeid
 		<Item Name="Alpha">Alpha-Phase</Item>
 		<Item Name="Beta">Beta-Test</Item>
 		<Item Name="Promote">Hochstufen</Item>
-		<Item Name="Release">Release</Item>
+		<Item Name="Release">Veröffentlichen</Item>
 		<Item Name="Delay">Verzug</Item>
 		<Item Name="NoBugs">Keine Fehler zum Beheben.</Item>
 		<Item Name="StillBugs">{0} Fehler behoben</Item>
@@ -758,7 +758,7 @@ Firma: {1}({2})
 Typ: {4} {3}
 Open Source: {5}
 Im Haus: {6}
-Release Datum: {7}</Item>
+Veröffentlichungsdatum Datum: {7}</Item>
 		<Item Name="ProductDetailRightText">Qualität: {0}
 Wahrnehmung: {1}
 Popularität: {2}
@@ -1116,8 +1116,8 @@ Tut mir sehr Leid für die Unannehmlichkeiten.</Item>
 	<Alpha5.4>
 		<Item Name="WindowPref">Fenstereinstellungen</Item>
 		<Item Name="Reset">zurückstellen</Item>
-		<Item Name="Upcoming releases">kommende Releases</Item>
-		<Item Name="UpcomingRelDesc">Hier findest Du eine Liste der angekündigten Releases von deinen Mitbewerbern.</Item>
+		<Item Name="Upcoming releases">kommende Veröffentlichungen</Item>
+		<Item Name="UpcomingRelDesc">Hier findest Du eine Liste der angekündigten Veröffentlichungen von deinen Mitbewerbern.</Item>
 		<Item Name="Close all windows">Schließe alle Fenster</Item>
 		<Item Name="CloseAllWindowWarning">Bist Du sicher, dass Du dieses Fenster schließen möchtest?</Item>
 		<Item Name="Only sequels">nur Fortsetzungen</Item>
@@ -1175,7 +1175,7 @@ oder drücke {0} oder {1}</Item>
 Du kannst ihn nicht wiederherstellen!</Item>
 		<Item Name="DeleteFail">Beim Löschen der Datei ist ein Fehler ist aufgetreten.
 Überprüfe ob Du die Berechtigung hast diese Datei zu löschen.</Item>
-		<Item Name="AskMarketingOption">Informiere Dich über die Vermarktung von neuen Releases</Item>
+		<Item Name="AskMarketingOption">Informiere Dich über die Vermarktung von neuen Veröffentlichungen</Item>
 	</Alpha6.5>
 	<Alpha6.11>
 		<Item Name="Overall skill">Allgemeine Fähigkeiten</Item>
@@ -1388,7 +1388,7 @@ Lass die Wörter nicht den Boden berühren</Item>
 		<Item Name="FeatureDependencyMarketWarning">Diese Funktion ist abhängig von {0} von {1}, welche auf dem Markt nicht verfügbar ist</Item>
 		<Item Name="FeatureDependencyPickedWarning">Diese Funktion ist abhängig von {0}, welche für {1} nicht verfügbar ist</Item>
 		<Item Name="FeatureDependencyOSWarning">Alle unterstützen Betriebssysteme müssen {0} haben um diese Funktion freizuschalten</Item>
-		<Item Name="SoftwareSupportWaning">Es ist eine Weile her, seit dem letzten Release von {0}({1}) und deinen Fans fällt das auf</Item>
+		<Item Name="SoftwareSupportWaning">Es ist eine Weile her, seit der letzten Veröffentlichung von {0}({1}) und deinen Fans fällt das auf</Item>
 		<Item Name="SheetRoyalties">Lizenzgebühren</Item>
 		<Item Name="Royalties">Lizenzgebühren</Item>
 		<Item Name="Royalty">Lizenz</Item>
