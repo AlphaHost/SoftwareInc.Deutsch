@@ -1446,10 +1446,10 @@ Lass die Wörter nicht den Boden berühren</Item>
 		<Item Name="RoomAngleError2">Winkel der Mauer muss grösser als {0}° sein</Item>
 		<Item Name="Hint">Hinweis</Item>
 		<Item Name="Hints">Hinweise</Item>
-		<Item Name="HintEmployeeAssign">You can assign employees to furniture by holding shift and selecting both the employee(s) and the furniture and then right clicking</Item>
-		<Item Name="HintStaffAssign">You can assign staff to rooms by holding shift and selecting both the staff member(s) and the room(s) and then right clicking</Item>
-		<Item Name="HintMultipleBuild">You can keep placing objects and rooms in build mode by holding shift, this also works when duplicating objects</Item>
-		<Item Name="HintQuickSelect">You can easily select multiple objects of a specific type by holding ctrl and the left mouse button while dragging the mouse</Item>
+		<Item Name="HintEmployeeAssign">Du kannst Angestellten Möbel zuweisen in dem du Shift gedrückt hälst und den Angestellten und das Möbelstück ausgewählt hast und dann die rechte Maustaste drückst</Item>
+		<Item Name="HintStaffAssign">Du kannst Angestellten Räume zuweisen in dem du die Shift Taste gedrückt hälst, beides markierst und dann die rechte Maustaste drückst</Item>
+		<Item Name="HintMultipleBuild">Du kannst mehrere Objekte und Räume im Baumodus platzieren wenn du die Shift Taste gedrückt hälst. Das funktioniert auch wenn du Objekte duplizierst</Item>
+		<Item Name="HintQuickSelect">Du kannst mehrere Objekte eines bestimmten Typs auswählen in dem du Strg gedrückt hälst wärend du die Maus bewegst</Item>	
 		<Item Name="HintSelectFurnitureType">The select furniture type option is extremely versatile, you can use it to select all furniture in a room or the selected furniture type(s) in the selected room(s)</Item>
 		<Item Name="HintCopyColor">You can easily copy furniture color by setting the default style and then resetting style for selected furniture from the context menu</Item>
 		<Item Name="HintProductRelease">Keep an eye on upcoming and recently released products before releasing your own to avoid getting overshadowed</Item>
